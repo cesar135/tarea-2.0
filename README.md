@@ -9,7 +9,7 @@ Memoria: 4GB
 Tarjeta gráfica: NVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10, 10.1, 11)
 Sound Card: 100% DirectX 10 compatible
 Espacio en el disco duro: 65GB
-Lector de DVD
+Lector de DVD.
 
 # Requisitos Recoendados 
 Sistema Operativo: Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1
@@ -18,4 +18,4 @@ Memoria: 8GB
 Tarjeta gráfica: NVIDIA GTX 660 2GB / AMD HD7870 2GB
 Tarjeta de sonido: 100% DirectX 10 compatible
 Espacio en el disco duro: 65GB
-Lector de DVD
+Lector de DVD.
