@@ -19,3 +19,4 @@ Tarjeta gráfica: NVIDIA GTX 660 2GB / AMD HD7870 2GB
 Tarjeta de sonido: 100% DirectX 10 compatible
 Espacio en el disco duro: 65GB
 Lector de DVD.
+.
